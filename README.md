@@ -10,3 +10,8 @@
 <p>I am currently learning JavaScript,</p>
 
 <p>And I'm building my resume.</p>
+
+## skils 
+  .html
+  .css
+  .js
