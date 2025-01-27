@@ -12,6 +12,6 @@
 <p>And I'm building my resume.</p>
 
 ## skils 
-  .html
-  .css
+  .html<br>
+  .css<br>
   .js
