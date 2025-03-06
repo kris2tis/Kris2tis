@@ -1,5 +1,5 @@
 <h1 align='center'>
-  hello world
+  hi 
 </h1>
 
 ## about me 
