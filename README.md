@@ -1,5 +1,4 @@
-# 💫 About Me:
-📌 About Me<br>Hey there! I’m Mahdi Rezaei 👋, a 17-year-old front-end enthusiast 🚀. I’ve been coding for about 8 months and absolutely love crafting beautiful web experiences.<br><br>🛠️ Skills: HTML, CSS, Tailwind, JavaScript, React, Git<br>🎯 Goal: Becoming a React specialist!<br><br>Still learning, still growing, and always excited to build cool stuff! ✨
+📌 About Me<br>Hey there! I’m Mahdi Rezaei, a 17-year-old front-end enthusiast. I’ve been coding for about 8 months and absolutely love crafting beautiful web experiences.<br><br>🛠️ Skills: HTML, CSS, Tailwind, JavaScript, React, Git<br> Goal: Becoming a React specialist!<br><br>Still learning, still growing, and always excited to build cool stuff!
 
 
 # 💻 Tech Stack:
