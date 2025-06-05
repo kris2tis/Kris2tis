@@ -1,4 +1,4 @@
-📌 About Me<br>Hey there! I’m Mahdi Rezaei, a 17-year-old front-end enthusiast. I’ve been coding for about 8 months and absolutely love crafting beautiful web experiences.<br><br> 
+📌 About Me<br>Hey there! I’m Mahdi Rezaei, a 17-year-old front-end enthusiast. I’ve been coding for about 1 year and absolutely love crafting beautiful web experiences.<br><br> 
 I'm becoming a front-end developer and I'm always learning, growing and working on my own projects.
 
 # 💻 Tech Stack:
