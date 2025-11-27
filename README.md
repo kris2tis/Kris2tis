@@ -4,7 +4,7 @@
 
 🔭 I am currently discussing the backend.
 
-📌 About Me<br>I’m a self-taught Frontend Developer with one year of experience working with React and Next.js. Skilled in building responsive, user-friendly websites with a strong focus on performance. I’m eager to collaborate with larger teams to expand my technical expertise and grow professionally.
+📌 About Me<br>I’m a self-taught Frontend Developer with one year of experience working with ** React ** and ** Next.js **. Skilled in building responsive, user-friendly websites with a strong focus on performance. I’m eager to collaborate with larger teams to expand my technical expertise and grow professionally.
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
