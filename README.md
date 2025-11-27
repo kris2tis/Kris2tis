@@ -1,6 +1,6 @@
-# hi i'am Mahdi.
+# Hi i'am Mahdi.
 
-🍁 I am currently building a full stack social project.
+🍁 I am currently building a full stack Social Media project.
 
 🔭 I am currently discussing the backend.
 
